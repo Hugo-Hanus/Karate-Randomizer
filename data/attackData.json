@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Oi Tsuki",
+    "category": "Tsuki",
+    "level": ["Jodan", "Chudan"],
+    "img": "oi-tsuki-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Gyaku Tsuki",
+    "category": "Tsuki",
+    "level": ["Chudan"],
+    "img": "gyaku-tsuki.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kizami Tsuki",
+    "category": "Tsuki",
+    "level": ["Jodan"],
+    "img": "kizami.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tate Tsuki",
+    "category": "Tsuki",
+    "level": ["Jodan", "Chudan"],
+    "img": "tate-tsuki.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Age Tsuki",
+    "category": "Tsuki",
+    "level": ["Jodan"],
+    "img": "agetsuki.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mawashi Tsuki",
+    "category": "Tsuki",
+    "level": ["Jodan", "Chudan"],
+    "img": "mawashi-tsuki.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nukite",
+    "category": "Tsuki",
+    "level": ["Jodan", "Chudan"],
+    "img": "nukite-4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Yama Tsuki",
+    "category": "Tsuki",
+    "level": ["Jodan", "Chudan"],
+    "img": "yama-tsuki.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Uraken Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "urakenuchi.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Shuto Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "shutoushi.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Tetsui Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "tesuiuchi.png"
+  },
+  {
+    "id": 12,
+    "name": "Enpi Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "empi-uchi2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Teisho Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "teisho tsuki.png"
+  },
+  {
+    "id": 14,
+    "name": "Haito Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "haito uchi.png"
+  },
+  {
+    "id": 15,
+    "name": "Haishu Uchi",
+    "category": "Uchi",
+    "level": ["Jodan", "Chudan"],
+    "img": "haishu uchi.png"
+  },
+  {
+    "id": 16,
+    "name": "Mae Geri",
+    "category": "Geri",
+    "level": ["Chudan"],
+    "img": "maegueri.png"
+  },
+  {
+    "id": 17,
+    "name": "Mawashi Geri",
+    "category": "Geri",
+    "level": ["Jodan", "Chudan"],
+    "img": "mawashi-gueri.png"
+  },
+  {
+    "id": 18,
+    "name": "Ura Mawashi Geri",
+    "category": "Geri",
+    "level": ["Jodan", "Chudan"],
+    "img": "mawashigeri-ura.gif"
+  },
+  {
+    "id": 19,
+    "name": "Yoko Geri",
+    "category": "Geri",
+    "level": ["Jodan", "Chudan"],
+    "img": "yoko-gueri-kekomi.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Mikazuki Geri",
+    "category": "Geri",
+    "level": ["Chudan"],
+    "img": "mikazukigeri.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Ushiro Geri",
+    "category": "Geri",
+    "level": ["Jodan", "Chudan"],
+    "img": "ushiro-gueri.png"
+  },
+  {
+    "id": 22,
+    "name": "Fumikomu Geri",
+    "category": "Geri",
+    "level": ["Gedan"],
+    "img": "fumikiri.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Mae Tobi Geri",
+    "category": "Geri",
+    "level": ["Chudan"],
+    "img": "maetobigueri.png"
+  },
+  {
+    "id": 24,
+    "name": "Hiza Geri",
+    "category": "Geri",
+    "level": ["Chudan"],
+    "img": "hizagueri-mae.png"
+  }
+]

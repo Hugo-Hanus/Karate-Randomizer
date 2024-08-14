@@ -1,0 +1,70 @@
+[
+  { "id": 1, "name": "Age Uke", "level": ["Jodan"], "img": "ageUke.jpg" },
+  {
+    "id": 2,
+    "name": "Gedan Barai",
+    "level": ["Chudan", "Gedan"],
+    "img": "gedan-barai2-1.png"
+  },
+  {
+    "id": 3,
+    "name": "Uchi Uke",
+    "level": ["Jodan", "Chudan"],
+    "img": "uchi-uke1-1.png"
+  },
+  {
+    "id": 4,
+    "name": "Soto Uke",
+    "level": ["Jodan", "Chudan"],
+    "img": "soto-uke-3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Otoshi Uke",
+    "level": ["Chudan"],
+    "img": "otoshiuke-2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shuto Uke",
+    "level": ["Jodan", "Chudan"],
+    "img": "kokutsu-shuto-1.png"
+  },
+  {
+    "id": 7,
+    "name": "Juji Uke",
+    "level": ["Jodan"],
+    "img": "godan-juji-uke-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Koken Uke",
+    "level": ["Chudan"],
+    "img": "kakutouke-1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Haishu Uke",
+    "level": ["Jodan", "Judan"],
+    "img": "haishu-uke-1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Morote Uke",
+    "level": ["Chudan"],
+    "img": "moroteuke.gif"
+  },
+  {
+    "id": 11,
+    "name": "Nagashi Uke",
+    "level": ["Chudan"],
+    "img": "te-nagashi-uke-1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Barai Uke",
+    "level": ["Chudan"],
+    "img": "sukui-uke-handflaeche-2.gif"
+  },
+  { "id": 13, "name": "Teisho Uke", "level": ["Chudan"], "img": "teisho-6.jpg" }
+]
