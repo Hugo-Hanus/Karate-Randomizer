@@ -15,7 +15,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base: "https://karate-move-randomizer.netlify.app/#/",
+  base: "#/",
   define: {
     "process.env": process.env,
   },
